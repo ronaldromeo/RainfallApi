@@ -18,7 +18,7 @@ How to run the project:
   2. Open the RainfallApi solution (RainfallApi.sln) in Visual Studio.
   3. Rebuild it. Make sure that there are no exceptions. If there are problems during building you may need to downloaded the following NUGet packages from the list above.
   4. After a successful build run it. You should be seeing the swagger page.
-  5. In the swagger expand the node Rainfall GET.
+  5. In the swagger expand the node Rainfall GET. Click Try it out.
   6. Click Try it out then enter a valid stationId: 3680, the count parameter is optional. If you don't enter anything in the count, it will default to 10.
   7. You should be getting a response Ok (200) and the list of the data.
      
